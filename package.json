@@ -1,0 +1,13 @@
+{
+  "name": "fifa-world-cup-2025",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.0.1"
+  }
+}
+```
+
+This project uses Tailwind CSS for styling and Parcel as the bundler. You can run the project by executing `npm run dev` in the terminal, and it will be available at `http://localhost:1234`.
